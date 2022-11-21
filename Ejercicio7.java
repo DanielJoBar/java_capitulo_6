@@ -8,7 +8,7 @@ for(int i =1;i<=15;i++){
         columnas=0;}
     else{columnas=2;}
     while (columnas<3){
-    aleatorio=(int)(Math.random()*3);
+    aleatorio=(int)(Math.random()*4);
     switch(aleatorio){
         case 1:
         System.out.print("| X |\t");
