@@ -15,11 +15,11 @@ for(int i =1;i<=15;i++){
         columnas++;
         break;
         case 2:
-        System.out.print("| 1 |\t");
+        System.out.print("|1  |\t");
         columnas++;
         break;
         case 3:
-        System.out.print("| 2 |\t");
+        System.out.print("|  2|\t");
         columnas++;
         break;
     }
