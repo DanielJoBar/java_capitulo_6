@@ -15,5 +15,6 @@ public class Ejercicio22 {
             aleatorio =(int)(Math.random()*2+12);
             System.out.println();
         }
+        sc.close();
     }
 }
